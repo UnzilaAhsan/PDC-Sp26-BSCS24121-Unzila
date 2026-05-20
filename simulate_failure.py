@@ -1,7 +1,7 @@
 """
 Failure Simulation Test Script
 Demonstrates Problem 3: LLM API timeout causing thread starvation
-Student ID: BSCS24049
+Student ID: BSCS24121
 """
 
 import httpx
